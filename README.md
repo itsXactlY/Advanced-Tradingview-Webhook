@@ -22,10 +22,14 @@ This bot listens to [TradingView](https://tradingview.com) alerts via webhooks a
 todo: add me :)
 
 ## Images
-![Webhook Bot](https://i.imgur.com/hA6yvtj.png)
+
 
 ![Live TradingView Screenshot](https://i.imgur.com/3FVVuZv.png) 
+
+
 ![Live TradingView Screenshot](https://i.imgur.com/LLnMe2v.png)
+
+![Webhook Bot](https://i.imgur.com/hA6yvtj.png)
 ## Donations
 If you find the bot suitable for your needs, please consider donating whatever amount you like to:
 
