@@ -1,4 +1,4 @@
-# Advanced TradingView Webhook/ChartScreenshot Bot
+# Advanced TradingView Webhook / Chart Screenshot Relay Bot
 
 ![Python3](https://img.shields.io/badge/python-3-blue.svg)
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
