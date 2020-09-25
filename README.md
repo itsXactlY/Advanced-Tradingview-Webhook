@@ -6,7 +6,7 @@
 This bot listens to [TradingView](https://tradingview.com) alerts via webhooks and sends them instantly to Telegram, Discord and/or Email. 
 
 ## Usage
-1. Clone this repository `git clone https://github.com/fabcx/TradingView-Webhook-Bot.git`
+1. Clone this repository `git clone https://github.com/itsaLca/Advanced-Tradingview-Webhook`
 2. Create your virtual environment `python3 -m venv TradingView-Webhook-Bot`
 3. Activate it `source TradingView-Webhook-Bot/bin/activate`
 4. Install all requirements `pip install -r requirements.txt`
