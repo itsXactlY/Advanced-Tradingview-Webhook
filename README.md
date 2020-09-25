@@ -24,6 +24,8 @@ todo: add me :)
 ## Images
 ![Webhook Bot](https://i.imgur.com/hA6yvtj.png)
 
+![Live TradingView Screenshots](https://i.imgur.com/3FVVuZv.png)
+
 ## Donations
 If you find the bot suitable for your needs, please consider donating whatever amount you like to:
 
