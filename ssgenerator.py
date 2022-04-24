@@ -58,7 +58,7 @@ def get_trading_view_graph():
     wait_time = 25 # a very long wait time
     time.sleep(5)
 
-    imageLink = driver.find_element_by_class_name("textInput-3WRWEmm7")
+    imageLink = driver.find_element_by_class_name("text-2FI8ioay")
 
     print ("Got it! :) %s ", imageLink.get_attribute("value"))
 
