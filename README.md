@@ -37,3 +37,8 @@ If you find the bot suitable for your needs, please consider donating whatever a
 ```
 1ChggGYVS4xmEQxevBHhYzeQMy9SR4GKde
 ```
+
+Need Signals, market insights, or just want to be ahead of all others?
+
+Join us at: https://discord.me/zerodaytrading
+            https://t.me/zerodaytrading
