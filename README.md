@@ -1,11 +1,11 @@
 # Advanced TradingView Webhook / Chart Screenshot Relay Bot
 
-New Webhook-hoe here -> https://github.com/itsaLca/webhook-orderhoe-feat.-phemex
-
 ![Python3](https://img.shields.io/badge/python-3-blue.svg)
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 This bot listens to [TradingView](https://tradingview.com) alerts via webhooks and sends them instantly to Telegram, Discord, Twitter, and/or Email. 
+
+New Webhook-hoe here -> https://github.com/itsaLca/webhook-orderhoe-feat.-phemex
 
 ## Usage
 1. Clone this repository `git clone https://github.com/itsaLca/Advanced-Tradingview-Webhook`
